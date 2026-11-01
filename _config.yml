@@ -1,24 +1,24 @@
 # Welcome to Jekyll!
 
 # Website settings
-title: "M. Rastgoo"
-description: "Personal website of Mojdeh Rastgoo"
-keywords: "mrastgoo,mojdeh,rastgoo,medical,imaging,vision,melanoma,polarized,multispectral"
+title: "Luke Murphy"
+description: "Luke Murphy's resume page"
+keywords: "luke murphy, power bi, python, c, c++, c#, help desk, it support"
 baseurl: "/"
-url: "http://mrastgoo.github.io"
+url: "http://lukemurphy147.github.io"
 # url: "http://127.0.0.1:4000"
 
 # author
 author:
-  name: 'Rastgoo'
-  first_name: 'Mojdeh'
-  last_name: 'Rastgoo'
-  email: 'mojdeh.rastgoo@gmail.com'
-  linkedin_username: 'https://www.linkedin.com/in/mojdeh-rastgoo-6462753a/'
-  scholar_username: 'https://scholar.google.fr/citations?user=lPIo6ucAAAAJ&hl=en&oi=ao'
-  github_username: 'mrastgoo'
+  name: 'Luke Murphy'
+  first_name: 'Luke'
+  last_name: 'Murphy'
+  email: 'lukemurphy147@gmail.com'
+  linkedin_username: 'https://www.linkedin.com/in/luke-murphy-05657b21a/'
+  # scholar_username: 'https://scholar.google.fr/citations?user=lPIo6ucAAAAJ&hl=en&oi=ao'
+  github_username: 'lukemurphy147'
   head_img: 'static/img/landing/picture.jpeg'
-  desc: "Currently I am a data scientist at Saint-Gobain Research Paris. I am passionate about data analysis, machine learning in general and I strive for open source and data." 
+  desc: "Computer science professional experienced in Tier 1 technical support, desktop setup, data migration, and remote troubleshooting. Skilled in resolving network and software issues, documenting tickets in Microsoft CRM, and escalating complex cases. Certified in CompTIA A+, Python, Microsoft Azure, and Power BI." 
   
 
 # sections
@@ -47,16 +47,16 @@ sections:
     tpl: 'projects.html'
     css: 'project'
 
-  - id: 'publications'
-    i18n: 'nav.publications'
-    name: 'Publications'
-    tpl: 'publications.html'
-    css: 'publications'
+  - id: 'certifications'
+    i18n: 'nav.certifications'
+    name: 'Certifications'
+    tpl: 'certifications.html'
+    css: 'certifications'
 
 # localization
-languages:
-  - locale: 'en'
-    flag: 'static/img/flags/United-States.png'
+# languages:
+  # - locale: 'en'
+  #   flag: 'static/img/flags/United-States.png'
   # - locale: 'zh'
   #   flag: 'static/img/flags/China.png'
 
@@ -64,9 +64,9 @@ languages:
 img_path: 'http://www.jack003.com/static/img/blog'
 
 # donate
-donate:
-  wechat: 'static/img/pay/wechat.png'
-  alipay: 'static/img/pay/alipay.png'
+# donate:
+  # wechat: 'static/img/pay/wechat.png'
+  # alipay: 'static/img/pay/alipay.png'
 
 # comment
 changyan:
